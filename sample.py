@@ -1,4 +1,5 @@
 a=5
 b=6
+c=8
 
-sum a+b
+sum a+b+c
